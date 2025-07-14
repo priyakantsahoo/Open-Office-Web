@@ -55,8 +55,8 @@ open-office-web/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd open-office-web
+   git clone https://github.com/priyakantsahoo/Open-Office-Web.git
+   cd Open-Office-Web
    ```
 
 2. **Install frontend dependencies**
